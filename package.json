@@ -1,6 +1,6 @@
 {
   "name": "@skhemata/skhemata-hero-banner",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Skhemata Site Hero Banner Web Component. This web component provides website hero banner functionality.",
   "author": "skhemata-hero-banner",
   "main": "dist/index.js",
